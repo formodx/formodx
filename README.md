@@ -5,4 +5,4 @@
 - 📫 How to reach me: **amadalievdaniyar@gmail.com.**
 
 ### Knowledges:
-> Arduino, Assembly, Bootstrap, C/C++, Git, HTML/CSS/JS, Linux, MySQL, Postman, Python3
+> Assembly, C/C++, HTML/CSS/JS, Unix/Linux, MySQL, Python3
